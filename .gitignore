@@ -1,0 +1,5 @@
+/bin/
+/obj/
+/vendor/
+*.exe
+*.log
