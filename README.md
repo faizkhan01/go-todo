@@ -34,4 +34,4 @@ docker run -p 8080:8080 todo-app
 
 ## Notes
 
-- Data is stored in memory (non-persistent). If you want persistence, I can add SQLite or a JSON file store.
+- Data is stored in memory (non-persistent).
